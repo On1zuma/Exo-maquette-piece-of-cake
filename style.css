@@ -1,0 +1,52 @@
+.logo {
+  width: 8rem;
+  height: auto;
+}
+
+.balloon {
+  width: 8rem;
+  height: 8rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero {
+  background-image: url("./images/banner.jpg");
+  background-size: cover;
+}
+
+.not-rounded {
+  border-radius: 0;
+}
+
+.custom-form-boder-color {
+  border-color: #9a9a9a;
+}
+
+.green-btn-bg {
+  background-color: #5a6a5d;
+  border: none;
+}
+
+.green-btn-bg:hover {
+  background-color: #3d483f;
+  border: none;
+}
+
+.green-card-bg {
+  background-color: #5a6a5d8b;
+  padding: 2rem 0 2rem 0;
+}
+
+.card-organization {
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+}
+
+.row-icon {
+  width: 6rem;
+  height: 6rem;
+  justify-content: center;
+  align-items: center;
+}
