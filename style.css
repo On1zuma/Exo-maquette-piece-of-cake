@@ -49,6 +49,11 @@
   color: #676767;
 }
 
+.row-data .card-organization {
+  padding: 1rem 1rem;
+  min-width: 15rem;
+}
+
 .card-organization h2{
   font-weight: bold;
 }
@@ -119,11 +124,13 @@
   margin-top:9rem;
   color:#9C5E2F;
   font-weight: 500;
+  padding: 0 1rem;
 }
 
 .carousel-subtitle{
   color:#5A6A5D;
   margin-bottom: 4rem;
+  padding: 0 1rem;
 }
 
 
@@ -136,6 +143,7 @@
   margin-top:9rem;
   color:#9C5E2F;
   font-weight: 700;
+  padding: 0 1rem;
 }
 
 .card-subtitle {
@@ -146,6 +154,7 @@
   color: #676767;
   margin-bottom: 4rem;
   max-width: 25rem;
+  padding: 0 1rem;
 }
 
 .center-container {
