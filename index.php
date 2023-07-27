@@ -243,7 +243,7 @@
                   <!-- Grid column -->
                   <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                      <!-- Links -->
-                     <h6 class="text-uppercase fw-bold mb-4 h5">
+                     <h6 class="fw-bold mb-4 h5">
                         Compagnie
                      </h6>
                      <p>
@@ -266,7 +266,7 @@
                   <!-- Grid column -->
                   <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                      <!-- Links -->
-                     <h6 class="text-uppercase fw-bold mb-4 h5">
+                     <h6 class="fw-bold mb-4 h5">
                         Compagnie
                      </h6>
                      <p>
@@ -289,7 +289,7 @@
                   <!-- Grid column -->
                   <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                      <!-- Links -->
-                     <h6 class="text-uppercase fw-bold mb-4 h5">
+                     <h6 class="fw-bold mb-4 h5">
                         Compagnie
                      </h6>
                      <p>
@@ -312,7 +312,7 @@
                   <!-- Grid column -->
                   <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                      <!-- Links -->
-                     <h6 class="text-uppercase fw-bold mb-4 h5">
+                     <h6 class="fw-bold mb-4 h5">
                         Compagnie
                      </h6>
                      <p>

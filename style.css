@@ -153,12 +153,11 @@
   text-align: left;
   color: #676767;
   margin-bottom: 4rem;
-  max-width: 25rem;
   padding: 0 1rem;
 }
 
 .center-container {
-  max-width: 400px; 
+  max-width: 570px; 
   margin: 0 auto;
 }
 
@@ -320,3 +319,14 @@ textarea {
     padding: 2rem;
   }
 }
+
+@media (max-width: 900px) {
+  .newsletter{
+    padding: 3rem 0;
+  }
+
+  .card-button{
+    width: 75vw;
+  }
+}
+
