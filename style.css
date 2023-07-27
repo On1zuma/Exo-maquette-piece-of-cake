@@ -284,3 +284,39 @@ footer a{
   text-decoration: none;
 
 }
+
+.message-confirmation{
+  width: 100vw;
+  height: 100vh;
+}
+
+.message-confirmation .content{
+  padding: 5rem;
+  height: 100%;
+  gap: 1rem;
+}
+
+
+.message-confirmation form{
+  max-width: 40rem;
+  margin: auto;
+  gap: 1.3rem;
+}
+
+textarea {
+  resize: none;
+}
+
+.custom-img-height {
+  height: 100%;
+}
+
+@media (max-width: 1200px) {
+  .custom-img-height {
+    height: 25%;
+  }
+
+  .message-confirmation .content{
+    padding: 2rem;
+  }
+}
