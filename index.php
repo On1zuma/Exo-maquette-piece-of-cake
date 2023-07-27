@@ -7,7 +7,7 @@
        if (empty($name) || empty($email) || empty($message)) {
            $error_message = "Tous les champs sont obligatoires !";
        } else {
-           header("Location: /message-confirmation.php?name=" . urlencode($name) . "&email=" . urlencode($email) . "&message=" . urlencode($message));
+           header("Location: /result.php?name=" . urlencode($name) . "&email=" . urlencode($email) . "&message=" . urlencode($message));
            exit;
        }
    }
